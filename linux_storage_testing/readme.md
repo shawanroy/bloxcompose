@@ -11,4 +11,4 @@ list network share
 
 test command
 
-```./FIO_Speed_Test.sh /dir````
+```./FIO_Speed_Test.sh /dir```
